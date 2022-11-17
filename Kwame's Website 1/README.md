@@ -1,24 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-      This is the page head - it contains info the browser uses to display the page
-      You won't see what's in the head in the page
-      Scroll down to the body element for the page content
-    -->
+  
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <!-- 
-      This is an HTML comment
-      You can write text in a comment and the content won't be visible in the page
-    -->
 
     <title>Kwame's Website!</title>
 
-    <!-- Meta tags for SEO and social sharing -->
     <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
     <meta
       name="description"
@@ -41,7 +32,6 @@
     <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
 
-    <!-- Import the webpage's javascript file -->
     <script src="/script.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.4/moment-with-locales.js"></script>
 
@@ -58,13 +48,6 @@
   <body
     background="https://cdn.glitch.global/6b97f19a-0412-448d-a215-8f5083952c47/bg.jpeg?v=1666946692603"
   >
-    <!--
-      This is the body of the page
-      Look at the elements and see how they appear in the rendered page on the right
-      Each element is defined using tags, with < and > indicating where each one opens and closes
-      There are elements for sections of the page, images, text, and more
-      The elements include attributes referenced in the CSS for the page style
-    -->
     <div class="col-12">
       <h1>
         Kwame's Website <br class="br-screen" /><a
@@ -267,3 +250,17 @@
     </footer>
   </body>
 </html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
