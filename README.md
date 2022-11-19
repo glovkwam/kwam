@@ -1,5 +1,3 @@
-# kwam
-Welcome to my webpage/portfolio.
 <!DOCTYPE html>
 <html lang="en">
   <head>
