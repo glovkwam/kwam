@@ -1,16 +1,3 @@
-/*
-COLOR PALETTE
-https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
-#F7FFF7 - almost white
-#343434 - dark gray - almost black
-#2F3061 - blue dark
-#FFE66D - yellow
-#A1C6D7 - blue light
-*/
-
-
-/* Global styles
-------------------------------------*/
 html {
   box-sizing: border-box;
 }
@@ -48,6 +35,7 @@ h1, h2 {
   margin: 0;
 }
 .content-wrap {
+  color: black; 
   max-width: 800px;
   width: 85%;
   margin: 0 auto;
@@ -74,8 +62,14 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
-  color: #F7FFF7;
+  color: #FAFBFC;
+
+
+/*  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/kwam.webp?v=1669153846676);
+*/
+background-color: #A1C6D7;
+
+
 }
 
 
@@ -104,7 +98,9 @@ header {
 .project-item h3 {
   margin-top: 0;
 }
-
+.youtube {
+  background: #e608ea;
+}
 
 /* Work Experience
 ------------------------------------*/
@@ -117,7 +113,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
+  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/joanna-kosinska-unsplash.jpg?v=1668816858059);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
@@ -130,7 +126,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #e608ea;
   color: #F7FFF7;
 }
 .contact-list {
