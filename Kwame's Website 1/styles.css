@@ -62,11 +62,11 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  color: #FAFBFC;
+  -moz-text-decoration-color: #FAFBFC;
 
 
-/*  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/kwam.webp?v=1669153846676);
-*/
+  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/bckg.jpeg?v=1669667540166);
+  background-size: 1450px;
 background-color: #A1C6D7;
 
 
@@ -113,7 +113,7 @@ background-color: #A1C6D7;
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/joanna-kosinska-unsplash.jpg?v=1668816858059);
+  background-image: url(joanna-kosinska-unsplash.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
