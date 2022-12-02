@@ -62,10 +62,9 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  -moz-text-decoration-color: #FAFBFC;
 
 
-  background-image: url(https://cdn.glitch.global/93c093d6-9c56-4aeb-8bee-ed8806236dd4/bckg.jpeg?v=1669667540166);
+  background-image: url(moon.jpeg);
   background-size: 1450px;
 background-color: #A1C6D7;
 
@@ -126,7 +125,9 @@ background-color: #A1C6D7;
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #e608ea;
+  background-image: url(bckg.jpeg);
+  background-size: 1150px;
+
   color: #F7FFF7;
 }
 .contact-list {
